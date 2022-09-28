@@ -1,9 +1,11 @@
 # Pacman-Project
-With the Pacman Project, we were instructed to use the given code and images to make Pacman go back and forth on the page. The project was a way for us to learn how to control page boundaries, as well as connect images to our code.
 
-You can download the javascript, html, and images files, and load the html file on your browser to see Pacman move back and forth. You may have to change your image file path (in the html file) to where your images are downloaded. There is also starter code if you'd like to try the exercise yourself.
+<img src="PacMan1.png" width='300'/>
+With the Pacman Project, we were instructed to use the given code and images to make multiple Pacmen go in random directions simultaneously. The project was a way for us to learn how to control page boundaries, as well as connect images to our code.
 
-In the future, I think it would be an improvement to add multiple Pacmen, as well as images of other characters in the Pacman world.
+You can download the javascript, html, and images files, and load the html file on your browser to see the Pacmen move around on the page. You may have to change your image file path (in the html file) to where your images are downloaded. 
+
+In the future, I think it would be an improvement to add other characters from the Pacman world, as well as different color Pacmen.
 
 # Licensing
 MIT License
